@@ -3,8 +3,8 @@ Apache Arrow is a development platform for in-memory analytics. It contains a se
 
 The Arrow Python bindings (also named PyArrow) have first-class integration with NumPy, pandas, and built-in Python objects. They are based on the C++ implementation of Arrow. 
 
-
-## Links:
-* [PyArrow Documentation](https://arrow.apache.org/docs/python/index.html)
-* [Getting started](https://arrow.apache.org/docs/python/getstarted.html)
-* [Python cookbook](https://arrow.apache.org/cookbook/py/)
+## Resources
+* [:scroll: PyArrow Documentation](https://arrow.apache.org/docs/python/index.html)
+* [:scroll: Getting started](https://arrow.apache.org/docs/python/getstarted.html)
+* [:scroll: Python cookbook](https://arrow.apache.org/cookbook/py/)
+* [:books: In-Memory Analytics with Apache Arrow](https://learning.oreilly.com/library/view/in-memory-analytics-with/9781801071031/)
